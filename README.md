@@ -37,9 +37,7 @@ I scored 906/1000 on the [AWS Data Engineer - Associate exam](https://aws.amazon
 - [Examtopics](https://www.examtopics.com/exams/amazon/aws-certified-data-engineer-associate-dea-c01/)
 
 ## My FeedBack:
-# AWS Data Engineer Certification Preparation Guide
-
-To help others succeed in the AWS Data Engineer certification, here’s a 4-step plan with essential areas of focus:
+AWS Data Engineer Certification Preparation Guide
 
 ## 1. Review the Exam Guide
 - Start with AWS’s official [exam guide](https://aws.amazon.com/certification/), as it outlines key topics and provides clarity on the scope.
@@ -73,6 +71,7 @@ To help others succeed in the AWS Data Engineer certification, here’s a 4-step
 3. Note **specific requirements**: fault tolerance, low latency, no public Internet access, etc.
 4. **Eliminate answers** that don't make any sense.
 5. For the options remained: choose the **most suitable option based on points 1-3**.
-6. [EXTRA] Does the **question scenario** remind you anything mentioned in the [how-to directory](https://github.com/m-elyoubi/AWS-Data-Engineer-Certification)?
+6. [EXTRA] Does the **question scenario** remind you anything mentioned in the 
+[how-to directory on Linkedin](https://www.linkedin.com/in/mouhcin-el-youbi/)?
 7. Unsure? **Flag it for review** and move on.
 8. **Stay calm and enjoy the exam—you've got this!**

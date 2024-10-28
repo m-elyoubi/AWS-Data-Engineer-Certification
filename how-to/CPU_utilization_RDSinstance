@@ -1,0 +1,13 @@
+What actions should the data engineer take to effectively lower the CPU utilization of the DB instance? (Select two options.)
+
+Options:
+
+A. Utilize the Performance Insights feature of Amazon RDS to identify high CPU utilization queries and optimize them.
+
+B. Modify the database schema to add more tables and indexes.
+
+C. Reboot the RDS DB instance on a weekly basis.
+
+D. Upgrade to a larger instance size to accommodate the workload.
+
+E. Implement caching mechanisms to reduce the load on database queries.

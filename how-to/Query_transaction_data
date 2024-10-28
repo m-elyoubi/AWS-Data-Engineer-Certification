@@ -1,0 +1,11 @@
+What solution will allow the company to query the transaction data in the MOST cost-effective manner?
+
+Options:
+
+A. Store the data in Amazon Glacier Flexible Retrieval and use Amazon S3 Glacier Select to query the data.
+
+B. Store the data in Amazon S3 and use Amazon S3 Select to query the data.
+
+C. Store the data in Amazon S3 and use Amazon Athena to query the data.
+
+D. Store the data in Amazon Glacier Instant Retrieval and use Amazon Athena to query the data.

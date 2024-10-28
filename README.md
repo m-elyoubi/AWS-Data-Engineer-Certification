@@ -1,6 +1,6 @@
 # AWS Data Engineer Associate certification
 
-👋 Welcome to this short and simple repo!
+👋 Welcome, Guys, to this short and simple repository written by Dashapetr. I have also added a few pieces of feedbacke!
 
 I scored 906/1000 on the [AWS Data Engineer - Associate exam](https://aws.amazon.com/certification/certified-data-engineer-associate/). I hope my materials and cheat sheets help you!
 
@@ -37,7 +37,7 @@ I scored 906/1000 on the [AWS Data Engineer - Associate exam](https://aws.amazon
 - [Examtopics](https://www.examtopics.com/exams/amazon/aws-certified-data-engineer-associate-dea-c01/)
 
 ## My FeedBack:
-echo "# AWS Data Engineer Certification Preparation Guide
+# AWS Data Engineer Certification Preparation Guide
 
 To help others succeed in the AWS Data Engineer certification, here’s a 4-step plan with essential areas of focus:
 

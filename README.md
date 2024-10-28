@@ -65,10 +65,6 @@ To help others succeed in the AWS Data Engineer certification, here’s a 4-step
 - **What’s Included**: ETL, data lakes, data transformation, AWS compute and storage services.
 - **What’s Out of Scope**: AI/ML tasks, specific programming language syntax, and drawing business conclusions from data.
 
-## 4. Practice and Apply
-- Engage in hands-on labs, mock exams, and AWS documentation for practical experience, as it’s crucial for mastering real-world applications.
-
-This guide is designed to prepare you thoroughly for the AWS Data Engineer certification with a strong foundation in essential AWS and data engineering concepts.
 
 ## Common AWS Data Engineer Associate exam tips: 🏆
 

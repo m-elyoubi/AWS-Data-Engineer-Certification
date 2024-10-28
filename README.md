@@ -36,6 +36,40 @@ I scored 906/1000 on the [AWS Data Engineer - Associate exam](https://aws.amazon
 
 - [Examtopics](https://www.examtopics.com/exams/amazon/aws-certified-data-engineer-associate-dea-c01/)
 
+## My FeedBack:
+echo "# AWS Data Engineer Certification Preparation Guide
+
+To help others succeed in the AWS Data Engineer certification, here’s a 4-step plan with essential areas of focus:
+
+## 1. Review the Exam Guide
+- Start with AWS’s official [exam guide](https://aws.amazon.com/certification/), as it outlines key topics and provides clarity on the scope.
+
+## 2. Build Core Knowledge
+- **General Knowledge:**
+  - **Apache Spark**: Understand data processing and transformations.
+  - **File Formats**: Familiarize yourself with Parquet, CSV, ORC for efficient data storage and retrieval.
+  - **Git Commands**: Practice creating, updating, cloning, and branching repositories.
+  - **SQL Optimization**: Learn to write efficient SQL queries for data transformation.
+  - **CI/CD Principles**: Understand the basics of CI/CD for data engineering workflows.
+
+- **AWS-Specific Knowledge:**
+  - **ETL Pipelines**: Learn how to set up ETL processes with services like Amazon EventBridge, Step Functions, and Apache Airflow on AWS.
+  - **Batch vs. Streaming**: Get hands-on experience with Glue Jobs, Kinesis, and DynamoDB Streams for data processing.
+  - **Data Lakes**: Know how to create and manage data lakes using AWS Lake Formation, Glue Data Catalog, and Crawlers.
+  - **Compute Resources**: Familiarize yourself with Amazon Glue, EMR, EC2, and Lambda for data processing.
+  - **Storage Options**: Gain a solid understanding of Amazon S3, DynamoDB, and Amazon Aurora.
+  - **SQL on AWS**: Practice structuring SQL queries on AWS services like Athena and Redshift.
+  - **Notifications and Alerts**: Set up alert systems with Amazon S3 Event Notifications, SNS, and SQS.
+
+## 3. Focus on Relevant Areas
+- **What’s Included**: ETL, data lakes, data transformation, AWS compute and storage services.
+- **What’s Out of Scope**: AI/ML tasks, specific programming language syntax, and drawing business conclusions from data.
+
+## 4. Practice and Apply
+- Engage in hands-on labs, mock exams, and AWS documentation for practical experience, as it’s crucial for mastering real-world applications.
+
+This guide is designed to prepare you thoroughly for the AWS Data Engineer certification with a strong foundation in essential AWS and data engineering concepts.
+
 ## Common AWS Data Engineer Associate exam tips: 🏆
 
 1. Focus on **what’s being asked**: e.g., LEAST operational overhead, MOST cost-effective, FASTEST queries, LEAST latency.

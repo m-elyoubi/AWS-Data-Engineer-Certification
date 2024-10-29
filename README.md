@@ -55,7 +55,7 @@ AWS Data Engineer Certification Preparation Guide
   - **Batch vs. Streaming**: Get hands-on experience with Glue Jobs, Kinesis, and DynamoDB Streams for data processing.
   - **Data Lakes**: Know how to create and manage data lakes using AWS Lake Formation, Glue Data Catalog, and Crawlers.
   - **Compute Resources**: Familiarize yourself with Amazon Glue, EMR, EC2, and Lambda for data processing.
-  - **Storage Options**: Gain a solid understanding of Amazon S3, DynamoDB, and Amazon Aurora.
+  - **Storage Options**: Gain a solid understanding of Amazon S3, RDS, and Amazon Aurora...
   - **SQL on AWS**: Practice structuring SQL queries on AWS services like Athena and Redshift.
   - **Notifications and Alerts**: Set up alert systems with Amazon S3 Event Notifications, SNS, and SQS.
 

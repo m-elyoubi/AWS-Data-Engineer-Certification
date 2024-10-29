@@ -2,7 +2,7 @@
 
 👋 Welcome, Guys!
 
-I scored 906/1000 on the [AWS Data Engineer - Associate exam](https://aws.amazon.com/certification/certified-data-engineer-associate/). I hope my materials and cheat sheets help you!
+I scored 906/1000 on the [AWS Data Engineer - Associate exam](https://aws.amazon.com/certification/certified-data-engineer-associate/). I hope these materials and cheat sheets help you!
 
 ![My exam score](/images/score.JPG)
 

@@ -13,7 +13,7 @@ I scored 906/1000 on the [AWS Data Engineer - Associate exam](https://aws.amazon
 3. Reviewed all questions from [Examtopics](https://www.examtopics.com/exams/amazon/aws-certified-data-engineer-associate-dea-c01/)
 4. Checked some concepts hands-on in my [AWS Management console](https://aws.amazon.com/console/)
 
-**(Disclaimer)**: I already had experience with core Data Engineering services (Redshift, Athena, Glue, Kinesis, S3) + the Data Analytics Specialty certification ([retired](https://aws.amazon.com/blogs/training-and-certification/aws-certification-retirements-and-launches/)) + certified [AWS Developer Associate](https://aws.amazon.com/certification/certified-developer-associate/) + experience on [AWS Solutions Architect associate certification](https://aws.amazon.com/certification/certified-solutions-architect-associate/).
+**(Disclaimer)**: I already had experience with core Data Engineering services (Redshift, Athena, Glue, Kinesis, S3) + the Data Analytics Specialty ([retired](https://aws.amazon.com/blogs/training-and-certification/aws-certification-retirements-and-launches/)) + certified [AWS Developer Associate](https://aws.amazon.com/certification/certified-developer-associate/) + experience on [AWS Solutions Architect associate certification](https://aws.amazon.com/certification/certified-solutions-architect-associate/).
 
 📌 I do recommend going through fundamental courses, practice exams and example questions:
 
